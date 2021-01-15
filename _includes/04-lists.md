@@ -1,3 +1,4 @@
-# *1.Counter Strike: Global Offensive
-# *2.Grand Theft Auto 5
-# *3.Forza Horizon 4
+* Counter Strike: Global Offensive
+* Grand Theft Auto 5
+* Forza Horizon 4
+
